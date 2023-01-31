@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sarveshgupta1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sarveshgupta1997" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/sarveshgupta1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sarveshgupta1997" height="30" width="40" /></a> -->
 <a href="https://twitter.com/sarveshgupta141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarveshgupta141" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarvesh-gupta-17472211a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-gupta-17472211a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21120250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21120250" height="30" width="40" /></a>
