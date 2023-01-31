@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sarveshgupta1997.github.io/](https://sarveshgupta1997.github.io/)
 
-- 📫 How to reach me **sarveshgupta14@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/12sOwKJs6GiZ6e4WMpMRIxAsUWu1P5t5n/view?usp=sharing](https://drive.google.com/file/d/12sOwKJs6GiZ6e4WMpMRIxAsUWu1P5t5n/view?usp=sharing)
 
 - ⚡ Fun fact **There is BIG money in coding**
