@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Gupta</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer.</h3>
 
-<img align="center" alt="sarvesh coding animation" style="width: 100% , height:200px " src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473vvhyy5fkg45641mq8p3i16eo086uuvptppsl3cv&rid=giphy.gif&ct=g">
+<img align="center" alt="sarvesh coding animation" style="width: 100% ; height:400px; " src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473vvhyy5fkg45641mq8p3i16eo086uuvptppsl3cv&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshgupta1997&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshgupta1997" /> </p>
 
