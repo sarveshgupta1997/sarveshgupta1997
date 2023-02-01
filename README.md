@@ -1,3 +1,4 @@
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Sarvesh Gupta</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer.</h3>
 
